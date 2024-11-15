@@ -70,7 +70,7 @@ if __name__ == "__main__":
     FILE_PATH = os.path.abspath(__file__)
     BASE_PATH = os.path.dirname(os.path.dirname(os.path.dirname(FILE_PATH)))
 
-    with open(os.path.join(BASE_PATH, "data", "sample_credit_downgrade.txt"), "r") as f:
+    with open(os.path.join(BASE_PATH, "data", "sample_dummies", "sample_credit_downgrade.txt"), "r") as f:
         data = f.readlines()
     raw_news = "".join(data)
 
