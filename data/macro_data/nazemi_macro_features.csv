@@ -1,0 +1,105 @@
+Features, Feature Type,Missing
+Total real estate loans,Financial conditions,1
+Household obligations/income,Financial conditions,1
+Federal debt of non-fin industry,Financial conditions,1
+Total loans and leases (all banks),Financial conditions,1
+Total commercial loans,Financial conditions,1
+Non-performing loans ratio,Financial conditions,1
+Total consumer credit outst,Financial conditions,1
+Non-performing loans ratio small banks,Financial conditions,1
+Commercial & industrial loans,Financial conditions,1
+Net loan losses,Financial conditions,1
+Excess reserves of dep institutions,Financial conditions,1
+Total net loan charge-offs,Financial conditions,1
+Total borrowings from fed reserve,Financial conditions,1
+Return on bank equity,Financial conditions,1
+Bank loans and investments,Financial conditions,1
+Loan loss reserves,Financial conditions,1
+Household debt service payments,Financial conditions,1
+Non-perf commercial loans Financial conditions,Financial conditions,1
+GDP growth,Business cycle indicators,0
+Civilian employment,Business cycle indicators,0
+ISM manufacturing index,Business cycle indicators,0
+Employment/population-ratio,Business cycle indicators,1
+Industr production index,Business cycle indicators,1
+Unemployed (more than 15 weeks),Business cycle indicators,0
+Uni Michigan consumer sentiment,Business cycle indicators,0
+New orders: durable goods,Business cycle indicators,1
+Private fixed investments,Business cycle indicators,1
+Final sales of dom product,Business cycle indicators,1
+Real disposable personal income,Business cycle indicators,1
+New orders: capital goods,Business cycle indicators,1
+National income,Business cycle indicators,1
+Inventory/sales-ratio,Business cycle indicators,1
+Personal Income,Business cycle indicators,1
+Capacity util manufacturing,Business cycle indicators,1
+Manuf industry output,Business cycle indicators,1
+Change in private inventories,Business cycle indicators,1
+Consumption expenditure,Business cycle indicators,1
+Capacity util total industry,Business cycle indicators,1
+Manuf industry production,Business cycle indicators,1
+Inventories: total business,Business cycle indicators,1
+Expenditure durable goods,Business cycle indicators,1
+Light weight vehicle sales,Business cycle indicators,1
+Government expenditure,Business cycle indicators,1
+Non-farm housing starts,Business cycle indicators,1
+Gross private domestic investment,Business cycle indicators,1
+Housing starts,Business cycle indicators,1
+Unemployment rate,Business cycle indicators,0
+New houses sold,Business cycle indicators,1
+Total no unemployed,Business cycle indicators,1
+New building permits,Business cycle indicators,1
+Weekly hours worked,Business cycle indicators,1
+Final sales to domestic buyers,Business cycle indicators,1
+S&P 500,Stock Market Indicators,0
+Russell 2000,Stock Market Indicators,1
+S&P 500 Vol,Stock Market Indicators,1
+Russell 2000 Vol,Stock Market Indicators,1
+Dow Jones industrial average Vol,Stock Market Indicators,1
+S&P small cap index,Stock Market Indicators,1
+Nasdaq 100,Stock Market Indicators,1
+S&P small cap index Vol,Stock Market Indicators,1
+Nasdaq 100 Vol,Stock Market Indicators,1
+Trade weighted USD (Dollar Index),International Competitiveness,1
+Real exports goods(services),International Competitiveness,1
+FX index major trading partners,International Competitiveness,1
+Balance on merchandise trade,International Competitiveness,1
+Current account balance,International Competitiveness,1
+Real imports goods & services,International Competitiveness,1
+Unit labor cost: manufacturing,Micro-level factors,1
+Effective federal funds rate,Micro-level factors,1
+Unit labor cost: nonfarm business,Micro-level factors,1
+Corporate yield spread (baa seasoned bonds),Micro-level factors,0
+Total wages & salaries,Micro-level factors,1
+AAA corporate bond yield,Micro-level factors,0
+Non-durable manufacturing wages,Micro-level factors,1
+30 year mortgage rate,Micro-level factors,1
+Management salaries,Micro-level factors,1
+BAA corporate bond yield,Micro-level factors,0
+Durable manufacturing wages,Micro-level factors,1
+Volume defaulted bonds,Micro-level factors,1
+Employment cost index: benefits,Micro-level factors,1
+PPI all commodities,Micro-level factors,0
+Employee compensation index,Micro-level factors,1
+PPI industrial commodities,Micro-level factors,0
+Employment cost index: wages & salaries,Micro-level factors,1
+PPI interm energy goods,Micro-level factors,0
+1 month commercial paper rate,Micro-level factors,1
+PPI crude energy materials,Micro-level factors,0
+Treasury bond yield (10 years),Micro-level factors,0
+PPI finished goods,Micro-level factors,0
+3 month commercial paper rate,Micro-level factors,0
+PPI intermediate materials,Micro-level factors,0
+Term structure spread,Micro-level factors,0
+M2 money stock,Monetary measures,0
+Personal savings,Monetary measures,1
+CPI: all items less food,Monetary measures,0
+Personal savings rate,Monetary measures,1
+UMich infl expectations,Monetary measures,0
+Gross saving,Monetary measures,1
+CPI: energy index,Monetary measures,0
+GDP deflator (implicit),Monetary measures,1
+Corp profits,Corporate measures,1
+Net corporate dividends,Corporate measures,1
+After tax earnings,Corporate measures,1
+Corporate net cash flow,Corporate measures,1
